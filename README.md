@@ -26,6 +26,10 @@
 
 
 ### Databases
+<a href="https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver15" rel="nofollow">
+  <img src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" width="36" height="36" alt="TSQL" style="max-width: 100%;">
+</a>
+
 <a href="https://www.mongodb.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" style="max-width: 100%;"></a>
 
 ## Socials
