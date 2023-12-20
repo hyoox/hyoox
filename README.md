@@ -1,8 +1,7 @@
 ### Hi there 👋 My name is Nikos Skliris (@hyoox)
 # Software Developer 
-
+- 💻 Working as Front-End developer for Prisma Electronics S.A.
 - 🌍 Based in Athens, Greece
-
 ## Skills
 ### Software
 <a href="https://git-scm.com/" rel="nofollow">
