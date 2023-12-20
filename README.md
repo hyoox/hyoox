@@ -2,4 +2,4 @@
 
 ## Socials
 
-[![LinkedIn](https://i.imgur.com/KxQMt2M.png)](https://www.linkedin.com/in/nikolaos-skliris-40b3b219b/)
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/nikolaos-skliris-40b3b219b/)
