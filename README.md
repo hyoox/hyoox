@@ -2,4 +2,4 @@
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikolaos-skliris-40b3b219b/)
+[![LinkedIn](https://i.imgur.com/KxQMt2M.png)](https://www.linkedin.com/in/nikolaos-skliris-40b3b219b/)
