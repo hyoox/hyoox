@@ -1,4 +1,4 @@
-Software Engineer
+Full Stack Software Engineer
 -------------------
 
 * 🌍  I'm based in Athens,Greece
